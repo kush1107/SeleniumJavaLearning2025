@@ -1,0 +1,4 @@
+This is a sample file used for Selenium upload testing.
+Uploaded via automation script.
+Test data line 1
+Test data line 2
