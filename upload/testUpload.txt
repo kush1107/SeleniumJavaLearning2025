@@ -1,4 +1,3 @@
-This is a sample file used for Selenium upload testing.
-Uploaded via automation script.
-Test data line 1
-Test data line 2
+Sample file for upload testing
+Line 1
+Line 2
